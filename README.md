@@ -1,6 +1,7 @@
 ### Hi there 👋
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Linkedin Badge](https://img.shields.io/badge/-Jonatan_Rodriguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jrperdomoz)](https://www.linkedin.com/in/ishagupta20/) [![Gmail Badge](https://img.shields.io/badge/-jrperdomoz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jrperdomoz@gmail.com)](mailto:jrperdomoz@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jrperdomoz@gmail.com)](mailto:jrperdomoz@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkeIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jrperdomoz)](https://www.linkedin.com/in/ishagupta20/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+972522383362&text=Hi!)](https://api.whatsapp.com/send?phone=+972522383362&text=Hi!)
 
 ### I am Jonatan Rodríguez
 I'm a Full stack web developer and  I'm constantly learning new skills in the area of software development.
