@@ -9,7 +9,7 @@ I'm a Full stack web developer and  I'm constantly learning new skills in the ar
 ### Some of my skills
 -  **Languages :**  Typescript, Python, Dart, PHP
 -  **Backend :**    Django, Laravel, NestJS, strapijs
--  **Frontend :**   React, Angular
+-  **Frontend :**   Svelte, React, Angular
 -  **Mobile :**     Flutter, ReactNative
 
 ### I am currently learning
